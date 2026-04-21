@@ -1,34 +1,29 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "url": "cutters-last-race-little-500-iu",
+    "slug": "The last race",
+    "headline": "The last race",
+    "title": "The last race",
+    "pub_date": "April 20, 2026",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Mateo Fuentes-Rohwer",
+            "email": "matfuent@iu.edu",
+            "twitter": "mateo_frohwer",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/66fa89af-2950-4719-8520-86aae2d47ac6.original.jpg",
+            "bio": "Mateo has worked at the IDS since 2023 on the sports desk."
         },
         "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Emerson Elledge",
+            "email": "eelledge@iu.edu",
+			"pfp": "https://s3.amazonaws.com/snwceomedia/ids/db1f07e5-bd05-46b2-8082-4d568726b42c.original.jpg",
+			"bio": "Emerson Elledge has worked for the IDS since 2024 as a writer and photographer. "
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Matei Cloteaux",
+            "email": "mcloteau@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/582468e2-d203-46f6-bbf2-3a83a4f981ec.original.jpg",
+            "bio": "Matei has worked at the IDS since 2023 for the digital desk. "
         },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
-        }
     }
 }
 
