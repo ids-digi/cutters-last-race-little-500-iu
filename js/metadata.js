@@ -3,7 +3,7 @@ const data = {
     "slug": "The last race",
     "headline": "The last race",
     "title": "The last race",
-    "pub_date": "April 20, 2026",
+    "pub_date": "April 22, 2026",
     "bylines": {
         "By": {
             "name": "Mateo Fuentes-Rohwer",
